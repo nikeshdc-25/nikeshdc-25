@@ -1,6 +1,6 @@
 - 👋 Hi, I’m printf("Nikesh Dhakal");
 - 👀 I’m interested in game development and various quality of life softwares.
-- 🌱 I’m currently learning C/C++,Raspberry Pi,Java,Java Script and Python.
+- 🌱 I’m currently learning C/C++,Vb.NET,Java,Java Script,HTML/CSS,pHp and Python.
 - 💞️ I’m looking to collaborate on Game Development,e-billing and digital payment,other project mobile app and desktop app development.
 - 📫 How to reach me: My email: nutternikexdx@gmail.com and nikeshdhakal25@gmail.com
 
